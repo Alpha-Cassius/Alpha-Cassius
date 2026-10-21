@@ -1,116 +1,63 @@
-[<div align="center">
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · alpha-cassius</sub></p>
+<img src="https://www.gitskins.com/api/section/portrait?username=alpha-cassius&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4" width="620" alt="Vaibhav Pandey animated graduation portrait" />
+
 <h1>Vaibhav Pandey</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>AI &amp; ML | Python Developer | Robotics Enthusiast</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h3>Frontend or full-stack engineer</h3>
 
-<p><a href="https://github.com/alpha-cassius">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb" width="180" alt="Vaibhav Pandey GitHub avatar" />
-</td>
-</tr>
-</table>
+<p><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+
+<p>AI &amp; ML | Python Developer | Robotics Enthusiast</p>
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+## The mission
+
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
+
+AI &amp; ML | Python Developer | Robotics Enthusiast
+
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
+
+## What I’m building
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · JavaScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>46 repositories · 45 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>203 contributions · 36 active days</p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Generative-AI-Image-Generator</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from alpha-cassius's public work.</p><p><a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Alpha-Cassius/AgriWater-OS">AgriWater-OS</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from alpha-cassius's public work.</p><p><a href="https://github.com/Alpha-Cassius/AgriWater-OS">Explore project →</a></p></td>
 </tr>
 </table>
 
-<p><sub>AI &amp; ML | Python Developer | Robotics Enthusiast</sub></p>
+<p align="center"><a href="https://github.com/alpha-cassius?tab=repositories">Explore repositories →</a> · <a href="https://github.com/alpha-cassius?tab=stars">See open-source signal →</a></p>
 
-<h2>Proof at a glance</h2>
+## Technology arsenal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=alpha-cassius&theme=github-dark&logos=Jupyter%20Notebook%2CPython%2CJavaScript%2CHTML%2CCSS%2CC%2CPLpgSQL&v=signature-cap-tip-languages-3" alt="Vaibhav Pandey technology stack" />
+
+</div>
 
 <table width="100%">
-<tr>
-<td width="25%" align="center"><strong>46</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>45</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>203</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>Jupyter Notebook | Python | JavaScript | HTML | CSS | C | PLpgSQL</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>Generative-AI-Image-Generator · AgriWater-OS · AI-JobTracker</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>46 repositories · 45 stars · 203 contributions</td></tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Vaibhav Pandey GitHub proof metrics" />
-</picture>
-</p>
+## Open-source signal
 
-<h2>Selected work</h2>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&repos=alpha-cassius%2FGenerative-AI-Image-Generator%2Calpha-cassius%2FAgriWater-OS%2Calpha-cassius%2FAI-JobTracker%2Calpha-cassius%2Fchrome-wallpaper-extension&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&repos=alpha-cassius%2FGenerative-AI-Image-Generator%2Calpha-cassius%2FAgriWater-OS%2Calpha-cassius%2FAI-JobTracker%2Calpha-cassius%2Fchrome-wallpaper-extension&v=recruiter-projects-1&mode=dark" width="100%" alt="Vaibhav Pandey selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Generative-AI-Image-Generator</a></h3>
-<p>A selected public project.</p>
-<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=alpha-cassius&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Vaibhav Pandey GitHub contribution summary" />
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Alpha-Cassius/AgriWater-OS">AgriWater-OS</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Alpha-Cassius/AI-JobTracker">AI-JobTracker</a></h3><p>A local desktop application powered by Python Eel and Ollama (`gemma3:4b`) to track job applications, analyze resume-to-job matching keywords, draft c</p><p><sub>HTML · ⭐ 1</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Alpha-Cassius/chrome-wallpaper-extension">chrome-wallpaper-extension</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
-</tr>
-</table>
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=alpha-cassius&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Vaibhav Pandey contribution activity" />
 
-<h2>Technical toolkit</h2>
+</div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Vaibhav Pandey technology stack" />
-</picture>
-</p>
+## Let’s build useful software
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>44% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>15% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
-</tr>
-</table>
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
 
-<h2>Consistency signal</h2>
+<p align="center"><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=alpha-cassius&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Vaibhav Pandey contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/alpha-cassius">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Vaibhav Pandey · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb)
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
