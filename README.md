@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <table width="100%">
 <tr>
@@ -113,3 +113,4 @@
 </table>
 
 <p align="center"><sub>Vaibhav Pandey · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb)
