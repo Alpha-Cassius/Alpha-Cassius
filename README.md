@@ -1,17 +1,63 @@
-# 💫 About Me:
-Cassius<br>AI & ML | Python Developer | Robotics Enthusiast<br><br>Skills<br><br>Programming Languages: Python, C/C++, JavaScript, VB.NET<br>AI & ML Expertise: Deep Learning, NLP, Generative AI, Robotics<br>Web Development: Webflow, Hostinger, Wix, Object-Oriented Development<br>Databases & Cloud: MySQL, Google Cloud SQL<br>Tools & Platforms: Flutter Flow, Google Workspace<br>Summary<br>Passionate about AI and robotics, I specialize in building intelligent systems and AI assistants. With a strong background in Python and deep learning, I create innovative solutions that push the boundaries of technology. Experienced in web development and cloud platforms, I focus on delivering impactful, cutting-edge projects.
+<div align="center">
 
+<img src="https://www.gitskins.com/api/section/portrait?username=alpha-cassius&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3Dcb5031e7a1a8fd1806ccb4c637db920219a2d6e8%26v%3D4" width="620" alt="Vaibhav Pandey animated graduation portrait" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+<h1>Vaibhav Pandey</h1>
+<h3>Frontend or full-stack engineer</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alpha-Cassius&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>AI &amp; ML | Python Developer | Robotics Enthusiast</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Alpha-Cassius&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## The mission
+
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
+
+AI &amp; ML | Python Developer | Robotics Enthusiast
+
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
+
+## What I’m building
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Generative-AI-Image-Generator</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from alpha-cassius's public work.</p><p><a href="https://github.com/Alpha-Cassius/Generative-AI-Image-Generator">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Alpha-Cassius/AgriWater-OS">AgriWater-OS</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from alpha-cassius's public work.</p><p><a href="https://github.com/Alpha-Cassius/AgriWater-OS">Explore project →</a></p></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/alpha-cassius?tab=repositories">Explore repositories →</a> · <a href="https://github.com/alpha-cassius?tab=stars">See open-source signal →</a></p>
+
+## Technology arsenal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=alpha-cassius&theme=github-dark&logos=Jupyter%20Notebook%2CPython%2CJavaScript%2CHTML%2CCSS%2CC%2CPLpgSQL&v=signature-cap-tip-languages-3" alt="Vaibhav Pandey technology stack" />
+
+</div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>Jupyter Notebook | Python | JavaScript | HTML | CSS | C | PLpgSQL</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>Generative-AI-Image-Generator · AgriWater-OS · AI-JobTracker</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>46 repositories · 45 stars · 202 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=alpha-cassius&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Vaibhav Pandey GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=alpha-cassius&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Vaibhav Pandey contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
