@@ -12,7 +12,7 @@
 <p><a href="https://github.com/alpha-cassius">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/175388712?u=e2e49350d421f6fc5bb7045b657421b6e0d8dc6e&amp;v=4" width="180" alt="Vaibhav Pandey GitHub avatar" />
+<img src="[https://avatars.githubusercontent.com/u/175388712?u=e2e49350d421f6fc5bb7045b657421b6e0d8dc6e&amp;v=4](https://miro.medium.com/v2/resize:fit:1400/0*7VyEZgzwUhQMeBqb)" width="180" alt="Vaibhav Pandey GitHub avatar" />
 </td>
 </tr>
 </table>
