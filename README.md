@@ -5,7 +5,7 @@
 <h1>Vaibhav Pandey</h1>
 <h3>Frontend or full-stack engineer</h3>
 
-<p><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+<p><a href="https://github.com/alpha-cassius"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/alpha-cassius?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
 <p>AI &amp; ML | Python Developer | Robotics Enthusiast</p>
 
