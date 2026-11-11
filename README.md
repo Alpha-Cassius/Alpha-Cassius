@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://www.gitskins.com/api/section/portrait?username=alpha-cassius&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F175388712%3Fu%3De2e49350d421f6fc5bb7045b657421b6e0d8dc6e%26v%3D4" width="620" alt="Vaibhav Pandey animated graduation portrait" />
-
 <h1>Vaibhav Pandey</h1>
 <h3>Frontend or full-stack engineer</h3>
 
